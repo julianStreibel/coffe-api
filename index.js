@@ -38,7 +38,7 @@ app.get('/OnAt/:sec', function (req, res) {
     }
 })
 
-app.get('/OnAt/:sec', function (req, res) {
+app.get('/OffAt/:sec', function (req, res) {
     try {
         setTimeout(setLed, req.params.sec * 1000, 0)
         res.json({ status: 1 })
