@@ -1,7 +1,7 @@
 ## Coffee Api
 
 This api is serving my coffee machine app [coffe](https://github.com/julianStreibel/coffe).
-You can set machine to a specific time and set an automated stop so it isn´t heating the hole day. You can also see the status of the machine.
+You can set the machine to turn on at a specific time and set an automated stop so it isn´t heating the hole day. You can also see the status of the machine.
 
 ## Getting Started
 
